@@ -51,8 +51,8 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1
 ## GAVNet
 you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1907.12930)
 ### What is the GrideAttentionModel
-![senet](./assests/GrideAttention.PNG)
-### What is the SCSEVNet
+![senet](./assests/GrideAttention.png)
+### What is the GAVNet
 ![senet](./assests/GAVnet.png)
 
 ## Author
