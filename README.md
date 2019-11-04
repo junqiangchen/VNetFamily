@@ -55,6 +55,13 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1
 ### What is the GAVNet
 ![senet](./assests/GAVnet.png)
 
+## NonLocalVNet
+you can see the ***paper***, please refer to this [link](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
+### What is the NonLocalBlock
+![senet](./assests/NonLocal.PNG)
+### What is the NonLocalVNet
+![senet](./assests/NonLocalVNet.png)
+
 ## Author
 junqiangchen
 
