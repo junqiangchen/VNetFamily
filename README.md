@@ -62,6 +62,13 @@ you can see the ***paper***, please refer to this [link](http://openaccess.thecv
 ### What is the NonLocalVNet
 ![senet](./assests/NonLocalVNet.png)
 
+## PEVNet
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1906.04649)
+### What is the PEModel
+![senet](./assests/PEmodel.png)
+### What is the PEVNet
+![senet](./assests/PEVnet.png)
+
 ## Author
 junqiangchen
 
