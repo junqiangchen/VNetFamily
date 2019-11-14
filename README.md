@@ -60,7 +60,7 @@ you can see the ***paper***, please refer to this [link](http://openaccess.thecv
 ### What is the NonLocalBlock
 ![senet](./assests/NonLocal.PNG)
 ### What is the NonLocalVNet
-![senet](./assests/NonLocalVNet.png)
+![senet](./assests/NonLocalVnet.PNG)
 
 ## PEVNet
 you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1906.04649)
