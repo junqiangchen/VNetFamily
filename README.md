@@ -69,6 +69,13 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1
 ### What is the PEVNet
 ![senet](./assests/PEVnet.png)
 
+## ETVNet
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1907.10936)
+### What is the ETModel
+![senet](./assests/ETModule.PNG)
+### What is the ETVNet
+![senet](./assests/ETVNet.PNG)
+
 ## Author
 junqiangchen
 
