@@ -79,7 +79,7 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1
 ## MutilTask-VNet
 you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1902.04099)
 ### What is the MutilTask-VNet
-![senet](./assests/mutil-task Vnet.bmp)
+![senet](./assests/mutil-task-Vnet.bmp)
 
 ## Author
 junqiangchen
