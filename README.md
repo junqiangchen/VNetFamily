@@ -84,9 +84,9 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1
 ## MutilDepthFusion-VNet
 you can see the ***paper***, please refer to this [link](https://www.researchgate.net/publication/331145628_Multi-Depth_Fusion_Network_for_Whole-Heart_CT_Image_Segmentation)
 ### What is the MutilDepthFusion-VNet
-![senet](./assests/mutil_depth_deepVNet.bmp)
-### What is the MutilDepthFusion
 ![senet](./assests/mutil_depthfusion.bmp)
+### What is the MutilDepthFusion
+![senet](./assests/mutil_depth_deepVNet.bmp)
 
 ## Author
 junqiangchen
