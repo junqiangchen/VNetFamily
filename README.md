@@ -81,6 +81,13 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1
 ### What is the MutilTask-VNet
 ![senet](./assests/mutil-task-Vnet.bmp)
 
+## MutilDepthFusion-VNet
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/1902.04099)
+### What is the MutilDepthFusion-VNet
+![senet](./assests/mutil_depth_deepVNet.bmp)
+### What is the MutilDepthFusion
+![senet](./assests/mutil_depthfusion.bmp)
+
 ## Author
 junqiangchen
 
