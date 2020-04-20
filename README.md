@@ -2,8 +2,8 @@
 > There are some VNet Variant Networks that implement with tensorflow
 
 ## Requirements
-* Tensorflow 1.8
-* Python 3.5
+* Tensorflow-gpu == 1.8
+* Python == 3.5.5
 
 ## VNet
 you can see the ***paper***, please refer to this [link](http://campar.in.tum.de/pub/milletari2016Vnet/milletari2016Vnet.pdf)
