@@ -88,6 +88,13 @@ you can see the ***paper***, please refer to this [link](https://www.researchgat
 ### What is the MutilDepthFusion
 ![senet](./assests/mutil_depth_deepVNet.bmp)
 
+## VNettripleplus
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2004.08790)
+### What is the VNettripleplus
+![senet](./assests/mutil_depthfusion.bmp)
+### What is the full_scale skip conncetion
+![senet](./assests/FullScaleSkipConncetion.bmp)
+
 ## Author
 junqiangchen
 
