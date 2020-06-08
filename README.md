@@ -95,6 +95,31 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2
 ### What is the full_scale skip conncetion
 ![senet](./assests/FullScaleSkipConncetion.bmp)
 
+## MultiResVNet
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2006.00414)
+### What is the MultiResModule
+![senet](./assests/multiResmodule.png)
+### What is the MultiResModule
+![senet](./assests/Res-Path.png)
+### What is the MultiResVNet
+![senet](./assests/multiResVnet.png)
+
+## DCVNet
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2006.00414)
+### What is the Dual-ChannelModule
+![senet](./assests/dualchannelmodule.png)
+### What is the MultiResModule
+![senet](./assests/Res-Path.png)
+### What is the DCVNet
+![senet](./assests/DCVNet.png)
+
+## V2-Net
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2005.09007)
+### What is the ResUModule
+![senet](./assests/ResUModule.png)
+### What is the V2-Net
+![senet](./assests/V2-Net.png)
+
 ## Author
 junqiangchen
 
