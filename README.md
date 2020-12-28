@@ -120,6 +120,13 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2
 ### What is the V2-Net
 ![senet](./assests/V2-Net.png)
 
+## MA-UNet
+you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2012.10952)
+### What is the Spatial Attention and Channel Attention
+![senet](./assests/SACA.bmp)
+### What is the MA-UNet
+![senet](./assests/MA-UNet.bmp)
+
 ## Author
 junqiangchen
 
