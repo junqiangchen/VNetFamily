@@ -123,9 +123,9 @@ you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2
 ## MA-UNet
 you can see the ***paper***, please refer to this [link](https://arxiv.org/abs/2012.10952)
 ### What is the Spatial Attention and Channel Attention
-![senet](./assests/SACA.bmp)
+![senet](./assests/SACA.png)
 ### What is the MA-UNet
-![senet](./assests/MA-UNet.bmp)
+![senet](./assests/MA-UNet.png)
 
 ## Author
 junqiangchen
